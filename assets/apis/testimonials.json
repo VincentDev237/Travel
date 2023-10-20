@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "James",
+        "comment": "Travelya m'a ouvert les yeux sur un monde de possibilités ! Leurs guides de voyage et itinéraires m'ont aidé à planifier le voyage le plus incroyable en Grèce. Explorer les charmantes ruelles d'Oia et assister aux couchers de soleil fascinants étaient vraiment inoubliables. Grâce à Travelya, j'ai fait le voyage de ma vie.",
+        "image": "./assets/images/Testi-01.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Emily",
+        "comment": "Je suis le blog de voyage de Travelya depuis un certain temps maintenant, et il est devenu ma source d'inspiration incontournable pour l'inspiration du voyage. Les histoires captivantes et les superbes photos d’endroits comme Petra alimentent ma passion pour les voyages et me rappellent constamment la beauté qui m’attend au-delà de ma porte.",
+        "image": "./assets/images/Testi-02.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sarah and Mark",
+        "comment": "Réserver mes vacances de rêve aux Maldives a été un jeu d'enfant avec Travelya ! Leurs recommandations détaillées et leurs conseils sur les meilleures villas sur pilotis et activités nautiques ont rendu notre voyage extraordinaire. L’expérience de la plongée en apnée dans les eaux cristallines et de la détente sur les plages pittoresques était tout simplement magique. Merci, Travelya, de nous aider à créer des souvenirs qui dureront toute une vie !",
+        "image": "./assets/images/Testi-03.jpg"
+    }
+]

@@ -1,0 +1,114 @@
+<-- ============= FOR STATIC SECTION ============= -->
+
+<-- ============= Home Section ============= -->
+.Home
+  .home__text
+     .heading
+	"Embarquez pour des aventures inoubliables"
+     .text
+	"Êtes-vous prêt à explorer les destinations les plus captivantes du monde ? Travelya est votre compagnon de voyage ultime,
+     offrant une porte d'entrée vers un monde d'expériences enchanteresses et de paysages à couper le souffle."
+
+  .home__text 
+     .heading
+	"Découvrez de nouveaux horizons"
+     .text
+	"Des rues animées des villes animées aux rivages tranquilles des îles exotiques,
+     nos guides de voyage vous mèneront aux joyaux cachés et aux monuments incontournables qui attendent votre découverte."
+
+  .home__text 
+     .heading
+	"Histoires de voyage inspirantes"
+     .text
+	"Plongez-vous dans des récits de voyage captivants partagés par d’autres globe-trotters.
+     Laissez leurs expériences enflammer votre envie de voyager et inspirer votre propre voyage mémorable."
+
+ .home__text 
+     .heading
+	"Votre aventure vous attend"
+     .text
+	"Commencez votre voyage avec Travelya dès aujourd'hui. Libérez l'explorateur qui sommeille en vous,
+     et laissez le monde être votre terrain de jeu. L'aventure n'est qu'à un clic."
+
+ .home__text 
+     .heading
+	"Libérez votre explorateur intérieur"
+     .text
+	"Laissez libre cours à votre curiosité et laissez-vous guider par l’envie de voyager. Travelya est votre porte d'entrée vers un monde d'exploration,
+      où chaque destination raconte une histoire unique à découvrir."
+
+ .home__text 
+     .heading
+	"Voyager au-delà des frontières"
+     .text
+	"Osez dépasser le familier et entrer dans un royaume de possibilités infinies.
+      Travelya ouvre la porte à des cultures extraordinaires, des merveilles pittoresques et des rencontres réconfortantes qui vous laisseront changé à jamais."
+
+ .home__text 
+     .heading
+	"Où les rêves prennent leur envol"
+     .text
+	"Fermez les yeux, rêvez grand et laissez-nous transformer ces rêves en réalité.
+      Travelya vous invite à prendre votre envol, à explorer les paysages les plus époustouflants du monde et à tisser des souvenirs qui vous inspireront à jamais."
+
+ .home__text 
+     .heading
+	"Libérez la beauté du monde"
+     .text
+	"Entrez dans un monde d'enchantement et d'émerveillement.
+     Travelya vous invite à découvrir la beauté de notre planète, avec chaque expérience conçue pour vous plonger dans l'extraordinaire."
+
+<-- ============= About Section ============= -->
+
+.About
+    .about__text
+      .heading
+	"Découvrez l'histoire derrière Travelya"
+      .text
+	"Chaque destination a son charme unique et nous sommes là pour vous assurer d'en profiter pleinement.
+     Notre équipe de voyageurs passionnés se consacre à vous fournir les conseils les plus judicieux,
+    des conseils pratiques et des recommandations sincères pour rendre votre voyage fluide et inoubliable."
+
+<-- ============= Join Section ============= -->
+
+.Join
+   .join__title
+   "Embarquez pour un voyage de découverte : inscrivez-vous maintenant"
+
+
+<-- ============= Footer ============= -->
+
+.footer__col
+    .footer__logo
+	"Travelya"
+    .footer__description
+	"Explorez le monde avec Travelya."
+
+.footer__col
+    .footer__title
+	"Company"
+    .footer__links
+	"Home"
+	"About"
+	"Destinations"
+	"Blog"
+	"Testimonials"
+
+.footer__col
+    .footer__title
+	"Support"
+    .footer__links
+	"Privacy Policy"
+	"Terms of Service"
+	"Feedback"
+
+.footer__col
+    .footer__title
+	"Follow Us"
+    .footer__links
+	"Facebook"
+	"Inestagram"
+	"Twitter"
+
+.footer__copyRight
+    "&copy; 2023 <span>VincentDev</span> All Rights Reserved"

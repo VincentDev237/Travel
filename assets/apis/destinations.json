@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Santorini",
+        "desc": "Le charmant village de Santorin enchante par ses églises au dôme bleu, ses bâtiments blanchis à la chaux et ses couchers de soleil légendaires. Une destination romantique qui laisse des souvenirs impérissables.",
+        "image": "./assets/images/Dest-01.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Maldives",
+        "desc": "Un paradis d'eaux turquoise et de plages de sable blanc immaculées. Un havre tropical pour la détente et l'exploration sous-marine.",
+        "image": "./assets/images/Dest-02.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Petra",
+        "desc": "Un mélange fascinant d’histoire et d’architecture à couper le souffle. Explorez les secrets de cette ancienne merveille nabatéenne cachée dans les canyons du désert.",
+        "image": "./assets/images/Dest-03.jpg"
+    }
+]

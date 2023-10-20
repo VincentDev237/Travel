@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Perdu à Santorin : à la découverte de la mer Égée enchanteresse",
+        "image": "./assets/images/Blog-01.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Escapade insulaire : découvrir la beauté de Bali",
+        "image": "./assets/images/Blog-02.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Un avant-goût du paradis : délices culinaires en Thaïlande",
+        "image": "./assets/images/Blog-03.jpg"
+    }
+]
